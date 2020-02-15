@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0059D3D8-E425-42E6-838A-98B59F7DF197</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>0059D3D8-E425-42E6-838A-98B59F7DF197.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>TP1_SwiftUI_three_screens-bjowwexrouuhirbmzjtgsywszipp</string>
+			<key>timeStartedRecording</key>
+			<real>603469780.09071398</real>
+			<key>timeStoppedRecording</key>
+			<real>603469783.77699196</real>
+			<key>title</key>
+			<string>Build target TP1_SwiftUI_three_screens</string>
+			<key>uniqueIdentifier</key>
+			<string>0059D3D8-E425-42E6-838A-98B59F7DF197</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

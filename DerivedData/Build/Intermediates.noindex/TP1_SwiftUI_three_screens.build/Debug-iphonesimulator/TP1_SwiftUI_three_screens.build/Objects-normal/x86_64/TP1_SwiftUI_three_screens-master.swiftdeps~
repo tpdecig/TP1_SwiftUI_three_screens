@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "93266a745fdaa6805a536608add93b4b"
+build_time: [1581687786, 891806000]
+inputs:
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/AppDelegate.swift": [1581670537, 554362762]
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/SceneDelegate.swift": [1581670537, 560421139]
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/Model/ContactList.swift": [1581615747, 44517620]
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/View/ContentView.swift": [1581687786, 800652453]
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/View/ContactRowStyle.swift": [1581614540, 892647511]
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/View/ShowPersonneDetail.swift": [1581617130, 630070498]
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/View/AddContactView.swift": [1581670412, 907117400]
+  "/Users/vberry/Prog/SwiftProg/Xcode Projects/SwiftUI/TP1_SwiftUI_three_screens/TP1_SwiftUI_three_screens/Model/Personne.swift": [1581670240, 372168897]
