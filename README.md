@@ -11,11 +11,11 @@ Ce qui doit encore être fait :
 
 Ce qui peut/doit encore être améliorer : 
 
-    - la variable people devrait être privée, donc qu'on accède à ses élements par un itérateur (à faire)
     - ne pas réinsérer un contact identique à un contact déjà existant
     - permettre de désigner des favoris (par une étoile) quand on édite un contact
+    - griser le bouton "Add" si aucune info n'a été entré dans les TextField
 
-Liste des tutos dont j'ai tiré des infos pour construire le résultat : 
+Liste de quelques tutos dont j'ai tiré des infos pour construire le résultat : 
 - https://learnappmaking.com/swiftui-getting-started-how-to-ios-swift/#builders-modifiers-and-chaining
 - pour la partie gestion de repo GIT local voir https://www.youtube.com/watch?v=_MHhxzt7hcc&list=PLBn01m5Vbs4C8jeAmLZxk9kZ59lYtxnHW&index=7&t=0s
 - pour un dépôt distant (sur Github), conseillé pour les ordis MacInCloud (en cas de blocage d'un de votre ordi) : https://www.youtube.com/watch?v=cjDunoYcYBA
